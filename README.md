@@ -4,3 +4,4 @@ name:sidda
 priject:version control
 college:anmk
 course:mca
+affiliated to jntu approved by aicte and ugc
